@@ -43,6 +43,4 @@ const Damurq = {
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Damurq.Damurq)
-
 _⌨️ with ❤️ by [@Damurq](https://github.com/Damurq)_
