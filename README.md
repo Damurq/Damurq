@@ -29,8 +29,8 @@ const Damurq = {
   code: [Javascript, HTML, CSS, Python, Java, C++, C#],
   tools: [React.js, React Native, Django, Express.js, Docker, Git],
   databases: [MySQL, PostgreSQL, MongoDB],
-  challenge: "10th semester student of Software Engineering 
-              at the Universidad Centroccidental 'Lisandro Alvarado' 
+  challenge: "Software Engineering 
+              Universidad Centroccidental 'Lisandro Alvarado' 
               (UCLA)"
 }
 ```
